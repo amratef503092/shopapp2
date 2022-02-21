@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:shopapp22/presentation/fonts_manager.dart';
-import 'package:shopapp22/presentation/style_manager.dart';
-import 'package:shopapp22/presentation/value_manager.dart';
+import 'package:shopapp22/presentation/resources/fonts_manager.dart';
+import 'package:shopapp22/presentation/resources/style_manager.dart';
+import 'package:shopapp22/presentation/resources/value_manager.dart';
 
 import 'color_manager.dart';
 
